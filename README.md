@@ -8,15 +8,7 @@ OpenAI Gym is a toolkit that provides a wide variety of simulated environments (
 
 # Stable Baselines 3
 
-Stable Baselines 3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch. W&B's SB3 integration will: Record metrics such as losses and episodic returns. Upload videos of agents playing the games. Save the trained model.
-
-# Experiments
-
-The experiments done are presented in this section. The results of every algorithm in SpaceInvaders (upper left), Q*Bert (upper right) and MsPacman (lower left) is the following:
-
-![spaceinvaders-reward](https://user-images.githubusercontent.com/37047286/229602602-25053544-f86f-4fee-bc42-933a9b34a208.png)
-![qbert-reward](https://user-images.githubusercontent.com/37047286/229602707-b562ec4c-2b13-47fc-b851-0beafe8aa610.png)
-![mspacman-reward](https://user-images.githubusercontent.com/37047286/229602744-99fe66c9-3855-4fec-9d0d-250b91b6fcdd.png)
+Stable Baselines3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch. It is the next major version of Stable Baselines.
 
 # Results
 
