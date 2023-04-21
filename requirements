@@ -1,0 +1,3 @@
+!pip install stable-baselines3[extra]
+!pip install sb3-contrib
+!pip install gym atari-py==0.2.5
